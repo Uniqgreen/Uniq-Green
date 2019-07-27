@@ -663,7 +663,7 @@ p {
       font-size: 15px;
       font-weight: 600;
       font-family: 'Nunito', sans-serif;
-      color: #1CBB1C;
+      color: #121619;
       text-transform: uppercase;
       margin-left: 70px; }
       .header-banner .banner-content .banner-contact::before {
@@ -1364,7 +1364,7 @@ p.form-message.error {
 /* Contact
 ---------------------------------*/
 .main-section.contact{
-  padding:90px 0 100px;
+  padding:70px 0 100px;
 }
 
 .main-section.contact{
@@ -1372,7 +1372,7 @@ p.form-message.error {
 }
 .contact-info-box{
   font-size:15px;
-  margin:0 0 14px 68px;
+  margin:0 0 14px 0px;
   padding-left:0;
 }
 .contact-info-box h3{
@@ -1386,7 +1386,7 @@ p.form-message.error {
 .contact-info-box h3 i{
   font-style:normal;
   font-size:18px;
-  color:#222222;
+  color:#1CBB1C;
   font-family: 'FontAwesome';
   font-weight:normal;
   margin-right:7px;
@@ -1439,7 +1439,7 @@ p.form-message.error {
 }
 
 .form{
-  margin:0 66px 0 30px;
+  margin:0 6px 0 30px;
 }
 .input-text{
   padding:15px 16px;
